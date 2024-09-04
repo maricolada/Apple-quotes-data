@@ -1,4 +1,4 @@
-# analysis-tips-app
+# Tip Analysis App
 
 To work in this app you need to have a ready-made CSV file. 
 
